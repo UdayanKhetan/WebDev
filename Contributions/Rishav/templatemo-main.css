@@ -7,13 +7,13 @@ https://templatemo.com/tm-526-vanilla
 */
 
 p {
-  font-size: 15px;
+  font-size: 30px;
   line-height: 25px;
 }
 
 section {
   padding: 25px 0 35px;
-  background: #fff;
+  background: rgb(180, 71, 71);
 }
 
 body { 
